@@ -1,0 +1,54 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ExpDev07",
+      "name": "ExpDev",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/10024730?v=4",
+      "profile": "https://github.com/ExpDev07",
+      "contributions": [
+        "code",
+        "doc",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "bjarkimg",
+      "name": "bjarkimg",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1289419?v=4",
+      "profile": "https://github.com/bjarkimg",
+      "contributions": [
+        "question"
+      ]
+    },
+    {
+      "login": "Bost",
+      "name": "Bost",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1174677?v=4",
+      "profile": "https://github.com/Bost",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "gribok",
+      "name": "GRIBOK",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/40306040?v=4",
+      "profile": "https://github.com/gribok",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "coronavirus-tracker-api",
+  "projectOwner": "ExpDev07",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
